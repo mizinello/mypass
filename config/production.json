@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://mizinello:vOvXNOnutw402Lkw@cluster0.zvplc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "gfhgugjn3#bujk"
+}
