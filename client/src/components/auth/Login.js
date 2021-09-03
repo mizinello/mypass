@@ -83,7 +83,7 @@ const Login = props => {
         <p>
         Don't Have an account ?
          <span> 
-         <a className="text-primary" href={'/register'}> Sign Up Here.</a>
+         <a className="text-signup" href={'/register'}> Sign Up Here.</a>
          </span>
       </p>
       </form>
